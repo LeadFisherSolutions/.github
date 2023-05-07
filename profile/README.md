@@ -1,7 +1,5 @@
 # Leadfisher subsystems
 
-## Routing
-
 | Subsystem                  | Stage | Priority | Maintainer                     | Comments                                                                                   |
 | -------------------------- | ----- | -------- | ------------------------------ | ------------------------------------------------------------------------------------------ |
 | Framework                  | Init  | High     | [Alexander Ivanov][sashapop10] | [Node js [repository][leadboot]] The Main gate                                             |
