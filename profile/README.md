@@ -1,12 +1,13 @@
 # Leadfisher subsystems
 
+## Backend
+
 | Subsystem                  | Stage | Priority | Maintainer                     | Comments                                                                                   |
 | -------------------------- | ----- | -------- | ------------------------------ | ------------------------------------------------------------------------------------------ |
 | Framework                  | Init  | High     | [Alexander Ivanov][sashapop10] | [Node js [repository][leadboot]] The Main gate                                             |
 | Sql builder                | None  | Medium   | Not started yet                | Not started yet                                                                            |
 | Logger                     | Init  | Low      | ???????????????                | [Node js [repository][leadlogger]] Console & File logger                                   |
 | Memory storage             | None  | Medium   | Not started yet                | Not started yet                                                                            |
-| Configuration uploader     | None  | Medium   | Not started yet                | Not started yet                                                                            |
 | Schema                     | None  | High     | Not started yet                | Not started yet                                                                            |
 | Transport                  | None  | High     | Not started yet                | Not started yet                                                                            |
 | Virtualization & isolation | Done  | High     | [Alexander Ivanov][sashapop10] | [Node js [repository][leadvm]] V8 scripts isolation                                        |
