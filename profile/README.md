@@ -9,8 +9,8 @@
 | Logger                     | Init  | Low      | ???????????????                | [Node js [repository][leadlogger]] Console & File logger                                   |
 | File/Memory Storage        | None  | Medium   | Not started yet                | Not started yet                                                                            |
 | Mailer                     | None  | Low      | Not started yet                | Not started yet                                                                            |
-| Schema                     | None  | High     | Not started yet                | Not started yet                                                                            |
-| Transport                  | None  | High     | Not started yet                | Not started yet                                                                            |
+| Schema                     | Init  | High     | [Alexander Ivanov][sashapop10] | [Node js [repository][leadschema]] Contract definition language                            |
+| Transport                  | Test  | High     | [Alexander Ivanov][sashapop10] | [Node js [repository][leadnet]] Communication Protocol                                     |
 | Virtualization & isolation | Done  | High     | [Alexander Ivanov][sashapop10] | [Node js [repository][leadvm]] V8 scripts isolation                                        |
 | Directory watcher          | Done  | Medium   | [Alexander Ivanov][sashapop10] | [Node js [repository][leadwatch]] Directory updates watcher, continues-deployment backbone |
 | Leadfisher utilities       | Done  | Medium   | [Alexander Ivanov][sashapop10] | [Node js [repository][leadutils]] Common.js Universal task scripts                         |
@@ -21,10 +21,12 @@
 
 <!-- [maksim]: https://github.com/RedMoth-svg -->
 
-[leadboot]: https://github.com/LeadFisherSolutions/leadboot
 [leadvm]: https://github.com/LeadFisherSolutions/leadvm
-[leadlogger]: https://github.com/LeadFisherSolutions/leadlogger
+[leadnet]: https://github.com/LeadFisherSolutions/leadnet
+[leadboot]: https://github.com/LeadFisherSolutions/leadboot
 [leadwatch]: https://github.com/LeadFisherSolutions/leadwatch
 [leadutils]: https://github.com/LeadFisherSolutions/leadutils
+[leadlogger]: https://github.com/LeadFisherSolutions/leadlogger
+[leadschema]: https://github.com/LeadFisherSolutions/leadschema
 [workspace]: https://github.com/LeadFisherSolutions/workspace-example
 [eslint]: https://github.com/LeadFisherSolutions/eslint-config-leadfisher
