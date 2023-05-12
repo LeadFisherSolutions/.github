@@ -2,20 +2,20 @@
 
 ## Backend libraries
 
-| Subsystem                  | Stage | Priority | Maintainer                     | Comments                                                        |
-| -------------------------- | ----- | -------- | ------------------------------ | --------------------------------------------------------------- |
-| Framework                  | Init  | Low      | [Alexander Ivanov][sashapop10] | [Node js [repository][leadboot]] The Main gate                  |
-| Sql builder                | None  | Medium   | Not started yet                | Not started yet                                                 |
-| Logger                     | Init  | Low      | ???????????????                | [Node js [repository][leadlogger]] Console & File logger        |
-| File/Memory Storage        | None  | Medium   | Not started yet                | Not started yet                                                 |
-| Mailer                     | None  | Low      | Not started yet                | Not started yet                                                 |
-| Schema                     | Init  | High     | [Alexander Ivanov][sashapop10] | [Node js [repository][leadschema]] Contract definition language |
-| Transport                  | Test  | High     | [Alexander Ivanov][sashapop10] | [Node js [repository][leadnet]] Communication Protocol          |
-| Virtualization & isolation | Done  | High     | [Alexander Ivanov][sashapop10] | [Node js [repository][leadvm]] V8 scripts isolation             |
-| Directory watcher          | Done  | Medium   | [Alexander Ivanov][sashapop10] | [Node js [repository][leadwatch]] Directory updates watcher     |
-| Leadfisher utilities       | Done  | Medium   | [Alexander Ivanov][sashapop10] | [Node js [repository][leadutils]] Common Library                |
-| Eslint config              | Done  | Low      | [Alexander Ivanov][sashapop10] | [Node js [repository][eslint]] Workspace eslint rules           |
-| Workspace example          | Done  | Low      | [Alexander Ivanov][sashapop10] | [Node js [repository][workspace]] Workspace starter-kit         |
+| Subsystem                      | Stage | Priority | Maintainer                     | Comments                                                          |
+| ------------------------------ | ----- | -------- | ------------------------------ | ----------------------------------------------------------------- |
+| **Framework**                  | Init  | Low      | [Alexander Ivanov][sashapop10] | [_Node js_ [repository][leadboot]] The Main gate                  |
+| **Sql builder**                | None  | Medium   | Not started yet                | Not started yet                                                   |
+| **Logger**                     | Init  | Low      | ???????????????                | [_Node js_ [repository][leadlogger]] Console & File logger        |
+| **File/Memory Storage**        | None  | Medium   | Not started yet                | Not started yet                                                   |
+| **Mailer**                     | None  | Low      | Not started yet                | Not started yet                                                   |
+| **Schema**                     | Init  | High     | [Alexander Ivanov][sashapop10] | [_Node js_ [repository][leadschema]] Contract definition language |
+| **Transport**                  | Test  | High     | [Alexander Ivanov][sashapop10] | [_Node js_ [repository][leadnet]] Communication Protocol          |
+| **Virtualization & isolation** | Done  | High     | [Alexander Ivanov][sashapop10] | [_Node js_ [repository][leadvm]] V8 scripts isolation             |
+| **Directory watcher**          | Done  | Medium   | [Alexander Ivanov][sashapop10] | [_Node js_ [repository][leadwatch]] Directory updates watcher     |
+| **Leadfisher utilities**       | Done  | Medium   | [Alexander Ivanov][sashapop10] | [_Node js_ [repository][leadutils]] Common Library                |
+| **Eslint config**              | Done  | Low      | [Alexander Ivanov][sashapop10] | [_Node js_ [repository][eslint]] Workspace eslint rules           |
+| **Workspace example**          | Done  | Low      | [Alexander Ivanov][sashapop10] | [_Node js_ [repository][workspace]] Workspace starter-kit         |
 
 [sashapop10]: https://github.com/sashapop10
 
