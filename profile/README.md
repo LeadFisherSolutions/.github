@@ -6,16 +6,16 @@
 
 | Subsystem                                                      | Stage       | Priority | Maintainer                     | Comments                                      |
 | -------------------------------------------------------------- | ----------- | -------- | ------------------------------ | --------------------------------------------- |
-| [leadboot][leadboot:git] <br/> **Framework**                   | Initialized | Low      | [Alexander Ivanov][sashapop10] | _[Node js]_ The Main gate                     |
+| [leadboot][leadboot:git]/**Framework**                         | Initialized | Low      | [Alexander Ivanov][sashapop10] | _[Node js]_ The Main gate                     |
 | **Sql builder**                                                | None        | Medium   | Not started yet                | Not started yet                               |
-| [leadlogger][leadlogger:git] <br/> **Logger**                  | Initialized | Low      | ???????????????                | _[Node js]_ Console & File logger             |
+| [leadlogger][leadlogger:git]/**Logger**                        | Initialized | Low      | ???????????????                | _[Node js]_ Console & File logger             |
 | **File/Memory Storage**                                        | None        | Medium   | Not started yet                | Not started yet                               |
 | **Mailer**                                                     | None        | Low      | Not started yet                | Not started yet                               |
 | **Schema**                                                     | Initialized | High     | [Alexander Ivanov][sashapop10] | _[Node js]_ Contract definition language      |
-| [leadnet][leadnet:git] <br/> **Prototcol**                     | Testing     | High     | [Alexander Ivanov][sashapop10] | _[Node js]_ Transport communication protocol  |
+| [leadnet][leadnet:git]/**Prototcol**                           | Testing     | High     | [Alexander Ivanov][sashapop10] | _[Node js]_ Transport communication protocol  |
 | [leadvm][leadvm:git] <br/> **Scripts loader**                  | Done        | High     | [Alexander Ivanov][sashapop10] | _[Node js]_ V8 scripts isolation and loader   |
 | [leadwatch][leadwatch:git] <br/> **Directory watcher**         | Done        | Medium   | [Alexander Ivanov][sashapop10] | _[Node js]_ Directory & files updates watcher |
-| [leadutils][leadutils:git] <br/> **Utilities**                 | Done        | Medium   | [Alexander Ivanov][sashapop10] | _[Node js]_ Common Library                    |
+| [leadutils][leadutils:git]/**Utilities**                       | Done        | Medium   | [Alexander Ivanov][sashapop10] | _[Node js]_ Common Library                    |
 | **Widget**                                                     | Initialized | High     | [Alexander Ivanov][sashapop10] | _[JavaScript]_ Website widget                 |
 | [eslint-config-leadfisher][eslint:git] <br/> **Eslint config** | Done        | Low      | [Alexander Ivanov][sashapop10] | _[Node js]_ Workspace eslint rules            |
 | [workspace-example][workspace:git] <br/> **Workspace**         | Done        | Low      | [Alexander Ivanov][sashapop10] | _[Node js]_ Workspace starter-kit             |
