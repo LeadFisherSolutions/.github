@@ -1,3 +1,7 @@
+<p align="center">
+<img src="/profile/logo.png" height="200px" />
+</p>
+
 <h1 align="center"> Leadfisher opensource subsystems </h1>
 
 | Subsystem                      | Stage | Priority | Maintainer                     | Comments                                                                  |
