@@ -7,10 +7,11 @@
 | Subsystem                                                      | Stage       | Priority | Maintainer                     | Comments                                      |
 | -------------------------------------------------------------- | ----------- | -------- | ------------------------------ | --------------------------------------------- |
 | [leadboot][leadboot:git]/**Framework**                         | Initialized | Low      | [Alexander Ivanov][sashapop10] | _[Node js]_ The Main gate                     |
-| **Sql builder**                                                | None        | Medium   | Not started yet                | Not started yet                               |
+| **Sql builder**                                                | None        | Medium   | Not started yet                | _[Node js]_ Not started yet                   |
 | [leadlogger][leadlogger:git]/**Logger**                        | Initialized | Low      | ???????????????                | _[Node js]_ Console & File logger             |
-| **File/Memory Storage**                                        | None        | Medium   | Not started yet                | Not started yet                               |
-| **Mailer**                                                     | None        | Low      | Not started yet                | Not started yet                               |
+| **File/Memory Storage**                                        | None        | Medium   | Not started yet                | _[Node js]_ Not started yet                   |
+| **Mailer**                                                     | None        | Low      | Not started yet                | _[Node js]_ Not started yet                   |
+| **Schedular**                                                  | None        | Medium   | Not started yet                | _[Node js]_ Not started yet                   |
 | **Schema**                                                     | Initialized | High     | [Alexander Ivanov][sashapop10] | _[Node js]_ Contract definition language      |
 | [leadnet][leadnet:git]/**Prototcol**                           | Testing     | High     | [Alexander Ivanov][sashapop10] | _[Node js]_ Transport communication protocol  |
 | [leadvm][leadvm:git] **Scripts loader**                        | Done        | High     | [Alexander Ivanov][sashapop10] | _[Node js]_ V8 scripts isolation and loader   |
