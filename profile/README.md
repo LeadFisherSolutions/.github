@@ -19,7 +19,7 @@
 | [leadutils][leadutils:git]/**Utilities**                       | v1.1.0  | Medium   | [Alexander Ivanov][sashapop10] | _[Node js]_ Common Library                    |
 | **Widget**                                                     | v0.0.1  | High     | [Alexander Ivanov][sashapop10] | _[JavaScript]_ Website widget                 |
 | [eslint-config-leadfisher][eslint:git] <br/> **Eslint config** | v1.1.0  | Low      | [Alexander Ivanov][sashapop10] | _[Node js]_ Workspace eslint rules            |
-| [workspace-example][workspace:git] **Workspace**               | v1.1.0  | Low      | [Alexander Ivanov][sashapop10] | _[Node js]_ Workspace starter-kit             |
+| [workspace-example][workspace:git] **Workspace**               | v1.2.0  | Low      | [Alexander Ivanov][sashapop10] | _[Node js]_ Workspace starter-kit             |
 
 [sashapop10]: https://github.com/sashapop10
 
