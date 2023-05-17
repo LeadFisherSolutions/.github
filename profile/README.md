@@ -4,26 +4,26 @@
 
 <h1 align="center"> Leadfisher opensource subsystems </h1>
 
-| Subsystem                                                      | Version | Priority | Maintainer                     | Comments                                      |
-| -------------------------------------------------------------- | ------- | -------- | ------------------------------ | --------------------------------------------- |
-| [leadboot][leadboot:git]/**Framework**                         | v0.0.1  | Low      | [Alexander Ivanov][sashapop10] | _[Node js]_ The Main gate                     |
-| **Sql builder**                                                | v0.0.0  | Medium   | Not started yet                | _[Node js]_ Not started yet                   |
-| [leadlogger][leadlogger:git]/**Logger**                        | v0.0.1  | Low      | ???????????????                | _[Node js]_ Console & File logger             |
-| **File/Memory Storage**                                        | v0.0.0  | Medium   | Not started yet                | _[Node js]_ Not started yet                   |
-| **Mailer**                                                     | v0.0.0  | Low      | Not started yet                | _[Node js]_ Not started yet                   |
-| **Schedular**                                                  | v0.0.0  | Medium   | Not started yet                | _[Node js]_ Not started yet                   |
-| **Schema**                                                     | v0.0.1  | High     | [Alexander Ivanov][sashapop10] | _[Node js]_ Contract definition language      |
-| [leadnet][leadnet:git]/**Prototcol**                           | v0.1.0  | High     | [Alexander Ivanov][sashapop10] | _[Node js]_ Transport communication protocol  |
-| [leadvm][leadvm:git] **Scripts loader**                        | v1.1.0  | High     | [Alexander Ivanov][sashapop10] | _[Node js]_ V8 scripts isolation and loader   |
-| [leadwatch][leadwatch:git] **Directory watcher**               | v1.1.0  | Medium   | [Alexander Ivanov][sashapop10] | _[Node js]_ Directory & files updates watcher |
-| [leadutils][leadutils:git]/**Utilities**                       | v1.1.0  | Medium   | [Alexander Ivanov][sashapop10] | _[Node js]_ Common Library                    |
-| **Widget**                                                     | v0.0.1  | High     | [Alexander Ivanov][sashapop10] | _[JavaScript]_ Website widget                 |
-| [eslint-config-leadfisher][eslint:git] <br/> **Eslint config** | v1.1.0  | Low      | [Alexander Ivanov][sashapop10] | _[Node js]_ Workspace eslint rules            |
-| [workspace-example][workspace:git] **Workspace**               | v1.2.0  | Low      | [Alexander Ivanov][sashapop10] | _[Node js]_ Workspace starter-kit             |
+| Repository                             | Subsystem               | Version | Priority | Maintainer                     | Comments                                      |
+| -------------------------------------- | ----------------------- | ------- | -------- | ------------------------------ | --------------------------------------------- |
+| [leadboot][leadboot:git]               | **Framework**           | v0.0.1  | Low      | [Alexander Ivanov][sashapop10] | _[Node js]_ The Main gate                     |
+| leadsql                                | **Sql builder**         | v0.0.0  | Medium   | Not started yet                | _[Node js]_ Sql safe builder                  |
+| [leadlogger][leadlogger:git]           | **Logger**              | v0.0.1  | Low      | [Maksim Zhdankin][maksim]      | _[Node js]_ Console & File logger             |
+| leadstore                              | **File/Memory Storage** | v0.0.0  | Low      | Not started yet                | _[Node js]_ Universal storage                 |
+| leadmail                               | **Mailer**              | v0.0.0  | Low      | Not started yet                | _[Node js]_ Mail service                      |
+| leadschedular                          | **Schedular**           | v0.0.0  | Medium   | Not started yet                | _[Node js]_ Task schedular                    |
+| leadcrypt                              | **Obfuscator**          | v0.0.0  | Medium   | Not started yet                | _[Node js]_ JavaScript expression obfuscator  |
+| leadschema                             | **Schema**              | v0.0.1  | High     | [Alexander Ivanov][sashapop10] | _[Node js]_ Contract definition language      |
+| [leadnet][leadnet:git]                 | **Transport protocol**  | v0.1.0  | High     | [Alexander Ivanov][sashapop10] | _[Node js]_ Transport communication protocol  |
+| [leadvm][leadvm:git]                   | **Scripts loader**      | v1.1.0  | Done     | [Alexander Ivanov][sashapop10] | _[Node js]_ V8 scripts isolation and loader   |
+| [leadwatch][leadwatch:git]             | **Directory watcher**   | v1.1.0  | Done     | [Alexander Ivanov][sashapop10] | _[Node js]_ Directory & files updates watcher |
+| [leadutils][leadutils:git]             | **Utilities**           | v1.1.0  | Done     | [Alexander Ivanov][sashapop10] | _[Node js]_ Common Library                    |
+| leadwidget                             | **Widget**              | v0.0.1  | High     | [Alexander Ivanov][sashapop10] | _[JavaScript]_ Website widget                 |
+| [eslint-config-leadfisher][eslint:git] | **Eslint config**       | v1.1.0  | Done     | [Alexander Ivanov][sashapop10] | _[Node js]_ Workspace eslint rules            |
+| [workspace-example][workspace:git]     | **Workspace**           | v1.2.0  | Done     | [Alexander Ivanov][sashapop10] | _[Node js]_ Workspace starter-kit             |
 
 [sashapop10]: https://github.com/sashapop10
-
-<!-- [maksim]: https://github.com/RedMoth-svg -->
+[maksim]: https://github.com/RedMoth-svg
 
 <!-- [widget:git]: https://github.com/LeadFisherSolutions/widget -->
 <!-- [leadschema:git]: https://github.com/LeadFisherSolutions/leadschema -->
