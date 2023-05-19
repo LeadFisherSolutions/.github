@@ -1,5 +1,5 @@
 <p align="center">
-<image src="logo.svg">
+<image src="logo.svg" height="200px" />
 </p>
 
 <h1 align="center"> Leadfisher opensource subsystems </h1>
