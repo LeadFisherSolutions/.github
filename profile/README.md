@@ -9,6 +9,7 @@
 | [leadboot][leadboot:git]               | **Framework**           | v0.0.1  | Low      | [Alexander Ivanov][sashapop10] | _[Node js]_ The Main gate                     |
 | leadsql                                | **Sql builder**         | v0.0.0  | Medium   | Not started yet                | _[Node js]_ Sql safe builder                  |
 | [leadlogger][leadlogger:git]           | **Logger**              | v0.0.1  | Low      | [Maksim Zhdankin][maksim]      | _[Node js]_ Console & File logger             |
+| leadface                               | **Avatar generator**    | v0.0.0  | Low      | [Maksim Zhdankin][maksim]      | _[Node js]_ Unique svg avatar generator       |
 | leadstore                              | **File/Memory Storage** | v0.0.0  | Low      | Not started yet                | _[Node js]_ Universal storage                 |
 | leadmail                               | **Mailer**              | v0.0.0  | Low      | Not started yet                | _[Node js]_ Mail service                      |
 | leadschedular                          | **Schedular**           | v0.0.0  | Medium   | Not started yet                | _[Node js]_ Task schedular                    |
