@@ -19,7 +19,7 @@
 | [leadvm][leadvm:git]                   | **Scripts loader**      | v1.1.0  | Done     | [Alexander Ivanov][sashapop10] | _[Node js]_ V8 scripts isolation and loader   |
 | [leadwatch][leadwatch:git]             | **Directory watcher**   | v1.1.0  | Done     | [Alexander Ivanov][sashapop10] | _[Node js]_ Directory & files updates watcher |
 | [leadutils][leadutils:git]             | **Utilities**           | v1.1.0  | Done     | [Alexander Ivanov][sashapop10] | _[Node js]_ Common Library                    |
-| [leadhook][leadhook:git]                             | **Widget**              | v0.0.0  | High     | [Alexander Ivanov][sashapop10] | _[Svelte js]_Widget for websites                 |
+| [leadhook][leadhook:git]                             | **Widget**              | v0.0.0  | High     | [Alexander Ivanov][sashapop10] | _[Svelte js]_ Widget for websites                 |
 | [eslint-config-leadfisher][eslint:git] | **Eslint config**       | v1.1.0  | Done     | [Alexander Ivanov][sashapop10] | _[Node js]_ Workspace eslint rules            |
 | [workspace-example][workspace:git]     | **Workspace**           | v1.2.0  | Done     | [Alexander Ivanov][sashapop10] | _[Node js]_ Workspace starter-kit             |
 
