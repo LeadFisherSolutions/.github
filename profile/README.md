@@ -19,7 +19,7 @@
 | [leadvm][leadvm:git]                   | **Scripts loader**      | v1.1.0  | Done     | [Alexander Ivanov][sashapop10] | _[Node js]_ V8 scripts isolation and loader   |
 | [leadwatch][leadwatch:git]             | **Directory watcher**   | v1.1.0  | Done     | [Alexander Ivanov][sashapop10] | _[Node js]_ Directory & files updates watcher |
 | [leadutils][leadutils:git]             | **Utilities**           | v1.1.0  | Done     | [Alexander Ivanov][sashapop10] | _[Node js]_ Common Library                    |
-| leadwidget                             | **Widget**              | v0.0.1  | High     | [Alexander Ivanov][sashapop10] | _[JavaScript]_ Website widget                 |
+| [leadhook][leadhook:git]                             | **Widget**              | v0.0.0  | High     | [Alexander Ivanov][sashapop10] | _[Svelte js]_Widget for websites                 |
 | [eslint-config-leadfisher][eslint:git] | **Eslint config**       | v1.1.0  | Done     | [Alexander Ivanov][sashapop10] | _[Node js]_ Workspace eslint rules            |
 | [workspace-example][workspace:git]     | **Workspace**           | v1.2.0  | Done     | [Alexander Ivanov][sashapop10] | _[Node js]_ Workspace starter-kit             |
 
@@ -31,6 +31,7 @@
 
 [leadvm:git]: https://github.com/LeadFisherSolutions/leadvm
 [leadnet:git]: https://github.com/LeadFisherSolutions/leadnet
+[leadhook:git]: https://github.com/LeadFisherSolutions/leadhook
 [leadboot:git]: https://github.com/LeadFisherSolutions/leadboot
 [leadwatch:git]: https://github.com/LeadFisherSolutions/leadwatch
 [leadutils:git]: https://github.com/LeadFisherSolutions/leadutils
