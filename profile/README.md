@@ -14,12 +14,12 @@
 | leadmail                               | **Mailer**              | v0.0.0  | Low      | Not started yet                | _[Node js]_ Mail service                      |
 | leadschedular                          | **Schedular**           | v0.0.0  | Medium   | Not started yet                | _[Node js]_ Task schedular                    |
 | leadcrypt                              | **Obfuscator**          | v0.0.0  | Medium   | Not started yet                | _[Node js]_ JavaScript expression obfuscator  |
-| leadschema                             | **Schema**              | v0.0.1  | High     | [Alexander Ivanov][sashapop10] | _[Node js]_ Contract definition language      |
+| [leadschema][leadschema:git]           | **Schema**              | v0.0.1  | High     | [Alexander Ivanov][sashapop10] | _[Node js]_ Contract definition language      |
 | [leadnet][leadnet:git]                 | **Transport protocol**  | v0.1.0  | High     | [Alexander Ivanov][sashapop10] | _[Node js]_ Transport communication protocol  |
 | [leadvm][leadvm:git]                   | **Scripts loader**      | v1.1.0  | Done     | [Alexander Ivanov][sashapop10] | _[Node js]_ V8 scripts isolation and loader   |
 | [leadwatch][leadwatch:git]             | **Directory watcher**   | v1.1.0  | Done     | [Alexander Ivanov][sashapop10] | _[Node js]_ Directory & files updates watcher |
 | [leadutils][leadutils:git]             | **Utilities**           | v1.1.0  | Done     | [Alexander Ivanov][sashapop10] | _[Node js]_ Common Library                    |
-| [leadhook][leadhook:git]                             | **Widget**              | v0.0.0  | High     | [Alexander Ivanov][sashapop10] | _[Svelte js]_ Widget for websites                 |
+| [leadhook][leadhook:git]               | **Widget**              | v0.0.0  | High     | [Alexander Ivanov][sashapop10] | _[Svelte js]_ Widget for websites             |
 | [eslint-config-leadfisher][eslint:git] | **Eslint config**       | v1.1.0  | Done     | [Alexander Ivanov][sashapop10] | _[Node js]_ Workspace eslint rules            |
 | [workspace-example][workspace:git]     | **Workspace**           | v1.2.0  | Done     | [Alexander Ivanov][sashapop10] | _[Node js]_ Workspace starter-kit             |
 
@@ -27,7 +27,6 @@
 [maksim]: https://github.com/RedMoth-svg
 
 <!-- [widget:git]: https://github.com/LeadFisherSolutions/widget -->
-<!-- [leadschema:git]: https://github.com/LeadFisherSolutions/leadschema -->
 
 [leadvm:git]: https://github.com/LeadFisherSolutions/leadvm
 [leadnet:git]: https://github.com/LeadFisherSolutions/leadnet
@@ -36,5 +35,6 @@
 [leadwatch:git]: https://github.com/LeadFisherSolutions/leadwatch
 [leadutils:git]: https://github.com/LeadFisherSolutions/leadutils
 [leadlogger:git]: https://github.com/LeadFisherSolutions/leadlogger
+[leadschema:git]: https://github.com/LeadFisherSolutions/leadschema
 [workspace:git]: https://github.com/LeadFisherSolutions/workspace-example
 [eslint:git]: https://github.com/LeadFisherSolutions/eslint-config-leadfisher
