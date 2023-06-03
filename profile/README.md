@@ -4,24 +4,22 @@
 
 <h1 align="center"> Leadfisher opensource subsystems </h1>
 
-| Repository                             | Subsystem               | Size    | Version | Priority | Maintainer                     | Comments                                      |
-| -------------------------------------- | ----------------------- | ------- | ------- | -------- | ------------------------------ | --------------------------------------------- |
-| [leadboot][leadboot:git]               | **Framework**           | 0       | v0.0.1  | Low      | [Alexander Ivanov][sashapop10] | _[Node js]_ The Main gate                     |
-| leadsql                                | **Sql builder**         | 0       | v0.0.0  | Medium   | Not started yet                | _[Node js]_ Sql safe builder                  |
-| [leadlogger][leadlogger:git]           | **Logger**              | 0       | v0.0.1  | Low      | [Maksim Zhdankin][maksim]      | _[Node js]_ Console & File logger             |
-| leadface                               | **Avatar generator**    | 0       | v0.0.0  | Low      | [Maksim Zhdankin][maksim]      | _[Node js]_ Unique svg avatar generator       |
-| leadstore                              | **File/Memory Storage** | 0       | v0.0.0  | Low      | Not started yet                | _[Node js]_ Universal storage                 |
-| leadmail                               | **Mailer**              | 0       | v0.0.0  | Low      | Not started yet                | _[Node js]_ Mail service                      |
-| leadschedular                          | **Schedular**           | 0       | v0.0.0  | Medium   | Not started yet                | _[Node js]_ Task schedular                    |
-| leadcrypt                              | **Obfuscator**          | 0       | v0.0.0  | Medium   | Not started yet                | _[Node js]_ JavaScript expression obfuscator  |
-| [leadschema][leadschema:git]           | **Schema**              | 0       | v0.0.1  | High     | [Alexander Ivanov][sashapop10] | _[Node js]_ Contract definition language      |
-| [leadnet][leadnet:git]                 | **Transport protocol**  | 0       | v0.1.0  | High     | [Alexander Ivanov][sashapop10] | _[Node js]_ Transport communication protocol  |
-| [leadvm][leadvm:git]                   | **Scripts loader**      | **48K** | v1.1.0  | Done     | [Alexander Ivanov][sashapop10] | _[Node js]_ V8 scripts isolation and loader   |
-| [leadwatch][leadwatch:git]             | **Directory watcher**   | **24K** | v1.2.0  | Done     | [Alexander Ivanov][sashapop10] | _[Node js]_ Directory & files updates watcher |
-| [leadutils][leadutils:git]             | **Utilities**           | **88K** | v1.2.0  | Done     | [Alexander Ivanov][sashapop10] | _[Node js]_ Common Library                    |
-| [leadhook][leadhook:git]               | **Widget**              | 0       | v0.0.0  | High     | [Alexander Ivanov][sashapop10] | _[Svelte js]_ Widget for websites             |
-| [eslint-config-leadfisher][eslint:git] | **Eslint config**       | **64K** | v1.1.0  | Done     | [Alexander Ivanov][sashapop10] | _[Node js]_ Workspace eslint rules            |
-| [workspace-example][workspace:git]     | **Workspace**           | **16K** | v1.2.0  | Done     | [Alexander Ivanov][sashapop10] | _[Node js]_ Workspace starter-kit             |
+| Repository                             | Subsystem              | Size    | Version | Priority | Maintainer                     | Comments                          |
+| -------------------------------------- | ---------------------- | ------- | ------- | -------- | ------------------------------ | --------------------------------- |
+| [leadboot][leadboot:git]               | **Framework**          | 0       | v0.0.1  | Low      | Stopped                        | The Main gate                     |
+| leadsql                                | **Sql builder**        | 0       | v0.0.0  | Medium   | Not started yet                | Sql safe builder                  |
+| [leadlogger][leadlogger:git]           | **Logger**             | 0       | v0.0.1  | Medium   | [Maksim Zhdankin][maksim]      | Console & File logger             |
+| leadface                               | **Avatar generator**   | 0       | v0.0.0  | Low      | [Maksim Zhdankin][maksim]      | Unique svg avatar generator       |
+| leadschedular                          | **Schedular**          | 0       | v0.0.0  | Medium   | Not started yet                | Task schedular                    |
+| leadcrypt                              | **Obfuscator**         | 0       | v0.0.0  | High     | Not started yet                | JavaScript expression obfuscator  |
+| [leadschema][leadschema:git]           | **Schema**             | 0       | v0.1.0  | Critical | [Alexander Ivanov][sashapop10] | Contract definition language      |
+| [leadnet][leadnet:git]                 | **Transport protocol** | 0       | v0.1.0  | Critical | [Alexander Ivanov][sashapop10] | Transport communication protocol  |
+| [leadvm][leadvm:git]                   | **Scripts loader**     | **48K** | v1.1.0  | Done     | [Alexander Ivanov][sashapop10] | V8 scripts isolation and loader   |
+| [leadwatch][leadwatch:git]             | **Directory watcher**  | **32K** | v1.2.0  | Done     | [Alexander Ivanov][sashapop10] | Directory & files updates watcher |
+| [leadutils][leadutils:git]             | **Utilities**          | **88K** | v1.2.0  | Done     | [Alexander Ivanov][sashapop10] | Common Library                    |
+| [leadhook][leadhook:git]               | **Widget**             | 0       | v0.0.0  | Critical | Stopped                        | Widget for websites               |
+| [eslint-config-leadfisher][eslint:git] | **Eslint config**      | **64K** | v1.1.0  | Done     | [Alexander Ivanov][sashapop10] | Workspace eslint rules            |
+| [workspace-example][workspace:git]     | **Workspace**          | **16K** | v1.2.0  | Done     | [Alexander Ivanov][sashapop10] | Workspace starter-kit             |
 
 [sashapop10]: https://github.com/sashapop10
 [maksim]: https://github.com/RedMoth-svg
